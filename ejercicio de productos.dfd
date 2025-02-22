@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+5
+t,b,j
+6
+3
+5
+total
+5
+t+b+j
+2
+vd
+10
+total*0.25
+2
+tp
+8
+total-vd
+4
+1
+26
+"el descuento fue de $",vd
+4
+1
+20
+"le tocó pagar $",tp
+1
